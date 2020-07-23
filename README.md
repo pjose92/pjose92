@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My name is Jose Perez I am studying Full-Stack Web Development at Lambda School.
+### I am from Chicago, IL
+### 
 
 <!--
 **pjose92/pjose92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
