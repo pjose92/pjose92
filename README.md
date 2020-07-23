@@ -1,13 +1,12 @@
 # Hi there 👋
-<h1>Full-Stack Web Developer at Lambda School</h1>
-<p>Hi, I am Jose Perez, a passionate web developer from Chicago, IL.</p>
-<br>
-<h2>I am passionate about:</h2>
-<ul>
-    <li>Web Development</li>
-    <li>Software Engineer</li>
-    <li>Learning new technologies</li>
-</ul>
+# Full-Stack Web Developer at Lambda School
+#### Hi, I am Jose Perez, a passionate web developer from Chicago, IL.
+#### I am passionate about:
+
+1. Web Development
+2. Software Engineer
+3. Learning new technologies
+
 
 <!--
 **pjose92/pjose92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
