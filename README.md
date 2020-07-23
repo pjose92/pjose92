@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 <h1>Full-Stack Web Developer at Lambda School</h1>
 <p>Hi, I am Jose Perez, a passionate web developer from Chicago, IL.</p>
 <br>
