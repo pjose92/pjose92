@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1>Hello</h1>
 ### My name is Jose Perez I am studying Full-Stack Web Development at Lambda School.
 ### I am from Chicago, IL
 ### 
