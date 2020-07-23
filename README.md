@@ -1,11 +1,23 @@
 # Hi there 👋
 # Full-Stack Web Developer at Lambda School
-#### Hi, I am Jose Perez, a passionate web developer from Chicago, IL.
+#### Hi, I am Jose Perez, a passionate web developer from Chicago, IL. :city_sunset:
 #### I am passionate about:
 
-1. Web Development
-2. Software Engineer
-3. Learning new technologies
+* Web Development
+* Software Engineer
+* Learning new technologies
+
+### Skills
+* HTML
+* CSS
+* CSS Preprocessing with LESS
+* JavaScript
+* React
+* Node
+
+### Iam currently learning:
+* Python
+
 
 
 <!--
