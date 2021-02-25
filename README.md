@@ -1,5 +1,5 @@
-# Hi there 👋
-# Full-Stack Web Developer at Lambda School
+# Hi there my name is Jose👋
+# I am a Full-Stack Web Developer
 #### Hi, I am Jose Perez, a passionate web developer from Chicago, IL. :city_sunset:
 #### I am passionate about:
 
