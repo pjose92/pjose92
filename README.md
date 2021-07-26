@@ -50,7 +50,6 @@
 <br />
 ---
 
-<img align="left" alt="Anthony Amaro Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyamaro15" />
 
 [website]: https://jperezguerrero.netlify.app/
 [linkedin]: https://www.linkedin.com/in/jose-perez-guerrero-b7a50b175/
