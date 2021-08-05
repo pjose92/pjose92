@@ -1,9 +1,9 @@
 # Hi there my name is Jose 👋
 - 💬 I am a Full-Stack Web Developer passionate on learning new technologies, enjoy solving problems, and building amazing projects.
 - I’m looking to collaborate with others interested to build amazing projects.
-- I'm currenlty solving problems in leetcode to sharpen my problem solving skills.
+- I'm currenlty solving problems through Leetcode to sharpen my problem solving skills.
+- Working through freeCodeCamp JavaScript Algorithms and Data Structures
 
-- Technologies I want to learn are AWS, Java and Ruby on Rails
 
 
 #### I am passionate about:
