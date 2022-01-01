@@ -12,8 +12,10 @@
 * HTML
 * CSS
 * CSS Preprocessing with LESS
+* Styled-Components 
 * JavaScript
-* React* Node
+* React
+* Nextjs
 
 ### Connect with me:
 [<img align="left" alt="Anthony Amaro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
