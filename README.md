@@ -1,7 +1,13 @@
 # Hi there my name is Jose 👋
-- I am a Frontend Engineer at Foxtrot
-- Solving problems through Leetcode to sharpen my problem solving skills.
 
+
+## I'm a Frontend Engineer at Foxtrot 🦊 
+
+- 🌱 I'm an engineer that's always learning 🤣
+- 👯 I’m always looking to collaborate with other developers/engineers
+- 🥅 2022 Goals: Learn more accessibility and Jest testing
+- ⚡ Fun fact: I love to draw and play guitar
+<!-- 
 #### I am passionate about:
 
 * Web Development
@@ -16,7 +22,7 @@
 * JavaScript
 * React
 * Nextjs
-
+ -->
 <br />
 
 ### Languages and Tools:
