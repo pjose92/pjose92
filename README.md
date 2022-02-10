@@ -1,31 +1,14 @@
-# Hi there my name is Jose 👋
+<h1>Hi there my name is Jose 👋</h1>
 
-
-## I'm a Frontend Engineer at Foxtrot 🦊 
+<h2>I'm a Frontend Engineer at Foxtrot 🦊</h2>
 
 - 🌱 I'm an engineer that's always learning 🤣
 - 👯 I’m always looking to collaborate with other developers/engineers
 - 🥅 2022 Goals: Learn more accessibility and Jest testing
 - ⚡ Fun fact: I love to draw and play guitar
-<!-- 
-#### I am passionate about:
 
-* Web Development
-* Software Engineer
-* Learning new technologies
-
-### Skills
-* HTML
-* CSS
-* CSS Preprocessing with LESS
-* Styled-Components 
-* JavaScript
-* React
-* Nextjs
- -->
 <br />
-
-### Languages and Tools:
+<h3>Lenguages and tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,8 +28,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/pjose92" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jpcodess_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jose-perez-guerrero/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
