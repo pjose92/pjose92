@@ -2,7 +2,7 @@
 
 <h2>I'm a Frontend Engineer at Foxtrot 🦊</h2>
 
-- 🌱 I'm an engineer that's always learning 🤣
+- 🌱 I'm an engineer that's always learning
 - 👯 I’m always looking to collaborate with other developers/engineers
 - 🥅 2022 Goals: Learn more accessibility and Jest testing
 - ⚡ Fun fact: I love to draw and play guitar
