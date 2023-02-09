@@ -1,6 +1,6 @@
 <h1>Hi there my name is Jose 👋</h1>
 
-<h2>I'm a Frontend Engineer at Foxtrot 🦊</h2>
+<h2>I'm a Frontend Engineer at iCrossing</h2>
 
 - 🌱 I'm an engineer that's always learning
 - 👯 I’m always looking to collaborate with other developers/engineers
