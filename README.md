@@ -4,7 +4,7 @@
 
 - 🌱 I'm an engineer that's always learning
 - 👯 I’m always looking to collaborate with other developers/engineers
-- 🥅 2022 Goals: Learn more accessibility and Jest testing
+- 🥅 2024 Goals: Learn Python and build a project. 
 - ⚡ Fun fact: I love to draw and play guitar
 
 <br />
